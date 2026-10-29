@@ -1,4 +1,4 @@
-# Hi, I'm **SHANKHADEEP BANDYOPADHYAY**
+# Hi 👋, I'm **SHANKHADEEP BANDYOPADHYAY**
 
 ### Passionate Data scientist/Data Analyst from India|| Btech CSE 2026 Grad.
 Email Me 👉 ✉️ **way2shankha@gmail.com** For Collaboration/Project or Anything Else. 😊😊
