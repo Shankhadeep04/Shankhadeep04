@@ -1,3 +1,28 @@
+# Hi, I'm **SHANKHADEEP BANDYOPADHYAY**
+
+### Passionate Data scientist/Data Analyst from India|| Btech CSE 2026 Grad.
+Email Me 👉 ✉️ **way2shankha@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+
+
+## About Me
+
+- **Currently working on:**  
+ Data Analytics and Data Science projects focused on extracting insights from data and solving real-world problems.
+- **Currently learning:**  
+   PPython | Pandas | NumPy | SQL | Statistics | Exploratory Data Analysis (EDA) | Data Visualization | Machine Learning | Power BI.
+- **Looking to collaborate on:**  
+  Tech startups & forward-thinking development ideas.Data Analytics projects, Data Science initiatives, interactive dashboards, and data-driven problem-solving solutions
+
+- **Projects:**  
+ (https://github.com/Shankhadeep04)
+
+  **Ask me about:**  
+Machine Learning | Data Analysis | Python | SQL | Data Visualization | Power BI | Exploratory Data Analysis (EDA) | Cool Tech Stuff
+
+- **Reach me at:**  
+  [LinkedIn](https://www.linkedin.com/in/shankhadeep-bandyopadhyay-268b18256/)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shankhadeep.bandyopadhyay.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i__am___shankhadeep) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shankhadeep-bandyopadhyay-268b18256/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/way2shankha5) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@CSE_158_Shankhadeep Bandyopadhyay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:way2shankha@gmail.com) 
