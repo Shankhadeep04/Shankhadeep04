@@ -22,6 +22,12 @@ Machine Learning | Data Analysis | Python | SQL | Data Visualization | Power BI 
 
 - **Reach me at:**  
   [LinkedIn](https://www.linkedin.com/in/shankhadeep-bandyopadhyay-268b18256/)
+  <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 
 ## 🌐 Socials:
