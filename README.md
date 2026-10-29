@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **way2shankha@gmail.com** For Collaboration/Project or Anyt
   Tech startups & forward-thinking development ideas.Data Analytics projects, Data Science initiatives, interactive dashboards, and data-driven problem-solving solutions
 
 - **Projects:**  
- (https://github.com/Shankhadeep04)
+  [https://github.com/Shankhadeep04](https://github.com/Shankhadeep04)
 
   **Ask me about:**  
 Machine Learning | Data Analysis | Python | SQL | Data Visualization | Power BI | Exploratory Data Analysis (EDA) | Cool Tech Stuff
